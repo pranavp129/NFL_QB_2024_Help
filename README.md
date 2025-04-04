@@ -21,7 +21,7 @@ This project analyzes NFL quarterback data from the 2024 season using Next Gen S
 To run the scripts, ensure that you have installed the necessary libraries. Load the custom theme using `source("theme.R")` before executing the scripts.
 
 ### Visualizations
-The generated plots illustrate key metrics for quarterbacks from the 2024 NFL season. They provide insights into how QBs performed based on time to throw and either separation of receivers or completed air yards.
+The generated plots illustrate key metrics for quarterbacks from the 2024 NFL season. They provide insights into how QBs performed based on time to throw, separation of receivers, passing epa, completed air yards.
 
 ### Author
 Pranav Pitchala
